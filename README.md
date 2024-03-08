@@ -1,4 +1,5 @@
 ### Hi there 👋
+Welcome to my GitHub profile! I'm Catia Filiberto, a passionate student at 42 Roma Luiss, focused on refining my programming and development skills. My repositories showcase projects in C and C++, along with experiences in Docker, highlighting my journey through the challenging curriculum of 42 school. From creating a mini shell to tackling network practices and understanding foundational programming concepts, my work demonstrates a deep commitment to technology mastery. Explore my contributions for a glimpse into my dedication towards learning and professional growth in the tech field.
 
 <!--
 **Katyy123/Katyy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
